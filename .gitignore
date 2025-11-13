@@ -36,3 +36,12 @@ node_modules
 
 # Virtualenv
 .env
+
+# Custom build scripts (user-specific)
+build.sh
+build.sh.backup
+
+# User-specific configuration files
+docker-compose.override.yml
+.env.local
+.env.production
